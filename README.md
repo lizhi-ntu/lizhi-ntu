@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Li Zhi！
-- 🌼☀🌼☀🌼☀🌼
+# 🌼 Hi, I’m Li Zhi！
